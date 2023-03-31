@@ -1,4 +1,4 @@
-### 嗨，我是中科院自动化所 [余永灿](yuyongcan.github.io) 👋
+### 嗨，我是中科院自动化所 [余永灿](http://yuyongcan.github.io) 👋
 👯 Hi, I am [Yongcan Yu](yuyongcan.github.io) from Institute of Automation, Chinese Academy of Sciences (CAS) 👋
 
 🔭 I’m currently working on machine learning topics including test-time adaptation, federated learning.
