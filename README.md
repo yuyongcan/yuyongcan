@@ -1,5 +1,5 @@
 ### 嗨，我是中科院自动化所 [余永灿](http://yuyongcan.github.io) 👋
-👯 Hi, I am [Yongcan Yu](http://yuyongcan.github.io), a postgraduate from Institute of Automation, Chinese Academy of Sciences (CASIA). My tutor is [Jian liang](https://liangjian.xyz/). 👋
+👯 Hi, I am [Yongcan Yu](http://yuyongcan.github.io), a postgraduate from Institute of Automation, Chinese Academy of Sciences (CASIA). My tutor is [Jian Liang](https://liangjian.xyz/). 👋
 
 🔭 I’m currently working on machine learning topics including test-time adaptation, federated learning.
 <!--
