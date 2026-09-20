@@ -1,7 +1,7 @@
 ### 嗨，我是中科院自动化所 [余永灿](http://yuyongcan.github.io) 👋
-👯 Hi, I am [Yongcan Yu](http://yuyongcan.github.io), a Master from Institute of Automation, Chinese Academy of Sciences (CASIA). My tutor is [Jian Liang](https://liangjian.xyz/). 👋
+👯 Hi, I am [Yongcan Yu](http://yuyongcan.github.io), a fourth-year Ph.D from Institute of Automation, Chinese Academy of Sciences (CASIA). My tutor is Ran He and [Jian Liang](https://liangjian.xyz/). 👋
 
-🔭 I’m currently working on machine learning topics about test-time adaptation.
+🔭 I’m currently working on machine learning topics about Large Language Model Reasoning and On-Policy Distillation.
 <!--
 **yuyongcan/yuyongcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
